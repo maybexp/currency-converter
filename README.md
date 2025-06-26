@@ -1,6 +1,6 @@
 # Currency converter 
 
-A simple Java-based Currency Converter application that allows users to convert Danish Crowns (DKK) to other currencies using predefined exchange rates.
+Currency Converter application that allows users to convert Danish Crowns (DKK) to other currencies using predefined exchange rates.
 
 ---
 
