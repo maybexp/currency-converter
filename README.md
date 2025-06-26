@@ -11,5 +11,5 @@ A simple Java-based Currency Converter application that allows users to convert 
     - **EUR**
     - **INR**
 - Uses exchange rates as of **26th June 2025**
-- **JavaFX-based GUI**
+- JavaFX-based GUI
 
